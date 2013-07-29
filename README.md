@@ -1,4 +1,4 @@
-# Dropbox Puppet Module for Boxen
+# LittleSnitch Puppet Module for Boxen
 [![Build
 Status](https://travis-ci.org/andrzejsliwa/puppet-littlesnitch.png?branch=master)](https://travis-ci.org/andrzejsliwa/puppet-littlesnitch)
 
